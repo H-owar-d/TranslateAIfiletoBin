@@ -1,0 +1,3 @@
+./data_poker/1.jpg
+./data_poker/2.jpg
+./data_poker/3.jpg
