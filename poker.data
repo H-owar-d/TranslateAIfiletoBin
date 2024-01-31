@@ -1,7 +1,0 @@
-#adjust by class number
-classes = 59
-train = data/train_poker.txt
-valid = data/test_poker.txt
-names = data/poker.names
-backup = backup/
-
