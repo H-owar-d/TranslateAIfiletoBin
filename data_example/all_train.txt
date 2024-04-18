@@ -1,0 +1,5 @@
+./JPEGImages/back.jpg
+./JPEGImages/d2.jpg
+./JPEGImages/hq.jpg
+./JPEGImages/mix.jpg
+./JPEGImages/sj.jpg
